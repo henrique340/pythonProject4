@@ -1,0 +1,3 @@
+detergente; R$50.00
+lampada; R$35.00
+sabonete; R$15.00

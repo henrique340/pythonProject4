@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dados_projeto_iniciante" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ex115" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gerador_de_senhas" vcs="Git" />
+  </component>
+</project>

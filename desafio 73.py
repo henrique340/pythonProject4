@@ -1,0 +1,12 @@
+tupla = ('chapeco', 'palmeiras', 'corinthians', 'sao paulo', 'atletico', 'fluminence',
+         'real madri', 'barcelona', 'juventus')
+print('-=' * 60)
+print(' LISTA DOS TIMES:{} '.format(tupla))
+print('-=' * 60)
+print('os cinco primeiros colocados são {}'.format(tupla[:5]))
+print('-=' * 60)
+print('os cinco ultimos colocados são {}'.format(tupla[4:]))
+print('-=' * 60)
+print('Times em ordem alfabética: {}'.format(sorted(tupla)))
+print('-=' * 60)
+print('chapeco está na {} posição'.format(tupla.index('chapeco')+1))
