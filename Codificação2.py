@@ -1,8 +1,8 @@
-frase = input("")
+frase = input(" ")
 
 for linha in frase:
     linha = linha.strip()  # remove espaços em branco no início e no final da linha
-    nova_linha = ""
+    nova_linha = " "
     if 'Exit' == linha.rstrip():
         print('Fim do programa')
         break

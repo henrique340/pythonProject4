@@ -1,3 +1,4 @@
+print(8%2)
 opc = int(input('Digite 1 para bin - dec e 2 para dec - bin: '))
 
 # binário para decimal
